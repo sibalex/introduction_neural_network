@@ -2,6 +2,8 @@
 
 ![1_36MELEhgZsPFuzlZvObnxA copy 2](https://user-images.githubusercontent.com/43387913/69706987-e30ed780-1109-11ea-87e6-afc43490b7ba.gif)
 
+> This repository contains examples of popular machine learning algorithms implemented in **Python**. In most cases, notebooks from the courses [Netology](https://netology.ru) and [Coursera](https://www.coursera.org), in which I managed to participate.
+
 ### Computer vision:
 * 📗 [Image filtering](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/11.%20Basic_theory_CV/filtering.ipynb)
 * 📗 [Color spaces](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/11.%20Basic_theory_CV/colorspace.ipynb)
