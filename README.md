@@ -25,11 +25,11 @@
 * 📗 [Generative Competitive Networks](https://github.com/Alex110117/introduction_neural_network/blob/master/CV/L/19.%20Generative%20Competitive%20Networks%20(GAN)/gan_copy.ipynb) _(GAN)_
 
 ### Natural Language Processing:
+* 📗 [Introduction PyTorch](https://nbviewer.jupyter.org/github/Alex110117/introduction_neural_network/blob/master/NLP/L/22.%20Vector%20model%20and%20methods%20for%20reducing%20dimensionality%20in%20it.%20Information%20Search.%20Thematic%20Modeling%20%28LSA%2C%20LDA%2C%20HDP%29/first_nn.ipynb)
 * 📗 [Introduction to automatic word processing](https://nbviewer.jupyter.org/github/Alex110117/introduction_neural_network/blob/master/NLP/L/20.%20Introduction%20to%20automatic%20word%20processing/nlp_intro_1.ipynb)
 * 📗 [Syntactic analysis and keyword selection](https://nbviewer.jupyter.org/github/Alex110117/introduction_neural_network/blob/master/NLP/L/21.%20Syntactic%20analysis%20and%20keyword%20selection/NER.ipynb) _(NER, Natasha, BeautifulSoup, Spacy)_
 * 📗 [Syntactic analysis and keyword selection](https://nbviewer.jupyter.org/github/Alex110117/introduction_neural_network/blob/master/NLP/L/21.%20Syntactic%20analysis%20and%20keyword%20selection/keywords.ipynb) _(keywords, nltk, pymystem3, wordcloud, TfidfVectorizer)_
 * 📗 [Syntactic analysis and keyword selection](https://nbviewer.jupyter.org/github/Alex110117/introduction_neural_network/blob/master/NLP/L/21.%20Syntactic%20analysis%20and%20keyword%20selection/syntax.ipynb) _(syntax, graphviz, NN)_
-* 📗 [Introduction PyTorch](https://nbviewer.jupyter.org/github/Alex110117/introduction_neural_network/blob/master/NLP/L/22.%20Vector%20model%20and%20methods%20for%20reducing%20dimensionality%20in%20it.%20Information%20Search.%20Thematic%20Modeling%20%28LSA%2C%20LDA%2C%20HDP%29/first_nn.ipynb)
 * 📗 [Vector model and methods for reducing dimensionality in it. Information Search. Thematic Modeling (LSA, LDA, HDP)](https://github.com/Alex110117/introduction_neural_network/blob/master/NLP/L/22.%20Vector%20model%20and%20methods%20for%20reducing%20dimensionality%20in%20it.%20Information%20Search.%20Thematic%20Modeling%20(LSA%2C%20LDA%2C%20HDP)/topic_modelling.ipynb)
 <br></br>
 
