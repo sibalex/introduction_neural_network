@@ -25,10 +25,12 @@
 * 📗 [Generative Competitive Networks](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/19.%20Generative%20Competitive%20Networks%20%28GAN%29/gan_copy.ipynb) _(GAN)_
 
 ### Natural Language Processing:
-* 📗 [Introduction to automatic word processing](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/bilder/Natural%20Language%20Processing/Introduction%20to%20automatic%20word%20processing.ipynb)
-* 📗 [Syntactic analysis and keyword selection](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/21.%20Syntactic%20analysis%20and%20keyword%20selection/NER.ipynb) _(NER, Natasha, BeautifulSoup, Spacy)_
-* 📗 [Syntactic analysis and keyword selection](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/21.%20Syntactic%20analysis%20and%20keyword%20selection/keywords.ipynb) _(keywords, nltk, pymystem3, wordcloud, TfidfVectorizer)_
-* 📗 [Syntactic analysis and keyword selection](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/21.%20Syntactic%20analysis%20and%20keyword%20selection/syntax.ipynb) _(syntax, graphviz, NN)_
+* 📗 [Introduction to automatic word processing](https://nbviewer.jupyter.org/github/Alex110117/introduction_neural_network/blob/master/NLP/L/20.%20Introduction%20to%20automatic%20word%20processing/nlp_intro_1.ipynb)
+* 📗 [Syntactic analysis and keyword selection](https://nbviewer.jupyter.org/github/Alex110117/introduction_neural_network/blob/master/NLP/L/21.%20Syntactic%20analysis%20and%20keyword%20selection/NER.ipynb) _(NER, Natasha, BeautifulSoup, Spacy)_
+* 📗 [Syntactic analysis and keyword selection](https://nbviewer.jupyter.org/github/Alex110117/introduction_neural_network/blob/master/NLP/L/21.%20Syntactic%20analysis%20and%20keyword%20selection/keywords.ipynb) _(keywords, nltk, pymystem3, wordcloud, TfidfVectorizer)_
+* 📗 [Syntactic analysis and keyword selection](https://nbviewer.jupyter.org/github/Alex110117/introduction_neural_network/blob/master/NLP/L/21.%20Syntactic%20analysis%20and%20keyword%20selection/syntax.ipynb) _(syntax, graphviz, NN)_
+* 📗 [intro PyTorch](https://nbviewer.jupyter.org/github/Alex110117/introduction_neural_network/blob/master/NLP/L/22.%20Vector%20model%20and%20methods%20for%20reducing%20dimensionality%20in%20it.%20Information%20Search.%20Thematic%20Modeling%20%28LSA%2C%20LDA%2C%20HDP%29/first_nn.ipynb)
+* 📗 [Vector model and methods for reducing dimensionality in it. Information Search. Thematic Modeling (LSA, LDA, HDP)](https://github.com/Alex110117/introduction_neural_network/blob/master/NLP/L/22.%20Vector%20model%20and%20methods%20for%20reducing%20dimensionality%20in%20it.%20Information%20Search.%20Thematic%20Modeling%20(LSA%2C%20LDA%2C%20HDP)/topic_modelling.ipynb)
 <br></br>
 
 [![69950995-76c71600-1505-11ea-81cd-be72e9023809 2](https://user-images.githubusercontent.com/43387913/69954671-e5f43880-150c-11ea-8b26-2dcd8f26e731.png)](https://nbviewer.jupyter.org)
