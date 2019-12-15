@@ -5,7 +5,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alex110117/introduction_neural_network/master?filepath=bilder)
 [![Build Status](https://travis-ci.org/Alex110117/introduction_neural_network.svg?branch=master)](https://travis-ci.org/Alex110117/introduction_neural_network)
 
-> This repository contains examples of popular machine learning algorithms implemented in **Python**. In most cases, notebooks from the courses [Netology](https://netology.ru) and [Coursera](https://www.coursera.org), in which I managed to participate.
+> This repository contains examples of popular machine learning algorithms implemented in **Python**. In most cases, notebooks from the courses [Netology](https://netology.ru) courses I have been able to participate in.
 
 ### Computer vision:
 * 📗 [Image filtering](https://github.com/Alex110117/introduction_neural_network/blob/master/CV/L/11.%20Basic_theory_CV/filtering.ipynb)
