@@ -30,7 +30,8 @@
 * 📗 [Syntactic analysis and keyword selection](https://nbviewer.jupyter.org/github/Alex110117/introduction_neural_network/blob/master/NLP/L/21.%20Syntactic%20analysis%20and%20keyword%20selection/NER.ipynb) _(NER, Natasha, BeautifulSoup, Spacy)_
 * 📗 [Syntactic analysis and keyword selection](https://nbviewer.jupyter.org/github/Alex110117/introduction_neural_network/blob/master/NLP/L/21.%20Syntactic%20analysis%20and%20keyword%20selection/keywords.ipynb) _(keywords, nltk, pymystem3, wordcloud, TfidfVectorizer)_
 * 📗 [Syntactic analysis and keyword selection](https://nbviewer.jupyter.org/github/Alex110117/introduction_neural_network/blob/master/NLP/L/21.%20Syntactic%20analysis%20and%20keyword%20selection/syntax.ipynb) _(syntax, graphviz, NN)_
-* 📗 [Vector model and methods for reducing dimensionality in it. Information Search. Thematic Modeling (LSA, LDA, HDP)](https://github.com/Alex110117/introduction_neural_network/blob/master/NLP/L/22.%20Vector%20model%20and%20methods%20for%20reducing%20dimensionality%20in%20it.%20Information%20Search.%20Thematic%20Modeling%20(LSA%2C%20LDA%2C%20HDP)/topic_modelling.ipynb)
+* 📗 [Vector model and methods for reducing dimensionality in it. Information Search.](https://github.com/Alex110117/introduction_neural_network/blob/master/NLP/L/22.%20Vector%20model%20and%20methods%20for%20reducing%20dimensionality%20in%20it.%20Information%20Search.%20Thematic%20Modeling%20(LSA%2C%20LDA%2C%20HDP)/topic_modelling.ipynb) _(Thematic Modeling (LSA, LDA, HDP))_
+* 📗 [Morphological and syntactic analysis](https://github.com/Alex110117/introduction_neural_network/blob/master/NLP/H/HW1_banki_TM-and-classification1.ipynb)
 <br></br>
 
 [![69950995-76c71600-1505-11ea-81cd-be72e9023809 2](https://user-images.githubusercontent.com/43387913/69954671-e5f43880-150c-11ea-8b26-2dcd8f26e731.png)](https://nbviewer.jupyter.org)
