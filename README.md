@@ -35,6 +35,7 @@
 * 📗 [Word Mover's Distance](https://github.com/Alex110117/introduction_neural_network/blob/master/NLP/L/23.%20Distribution%20semantics%20(word2vec%2C%20GloVe%2C%20AdaGram)%20WMD/4_WMD.ipynb) _(WMD)_
 * 📗 [Tone analysis](https://github.com/Alex110117/introduction_neural_network/blob/master/NLP/L/23.%20Distribution%20semantics%20(word2vec%2C%20GloVe%2C%20AdaGram)%20WMD/rnn_classification.ipynb) _(pytorch, RNN)_
 * 📗 [Distribution semantics (word2vec, GloVe, AdaGram)](https://github.com/Alex110117/introduction_neural_network/blob/master/NLP/L/23.%20Distribution%20semantics%20(word2vec%2C%20GloVe%2C%20AdaGram)%20WMD/sem2_embeddings.ipynb) _(Embeddings)_
+* 📙 [Distribution semantics (word2vec, GloVe, AdaGram)](https://github.com/Alex110117/introduction_neural_network/blob/master/NLP/H/Distribution%20semantics%20(word2vec%2C%20GloVe%2C%20AdaGram)%20WMD_hw.ipynb) _(Lab)_
 <br></br>
 
 [![69950995-76c71600-1505-11ea-81cd-be72e9023809 2](https://user-images.githubusercontent.com/43387913/69954671-e5f43880-150c-11ea-8b26-2dcd8f26e731.png)](https://nbviewer.jupyter.org)
