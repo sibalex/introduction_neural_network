@@ -33,7 +33,7 @@
 * 📗 [Vector model and methods for reducing dimensionality in it](https://github.com/Alex110117/introduction_neural_network/blob/master/NLP/L/22.%20Vector%20model%20and%20methods%20for%20reducing%20dimensionality%20in%20it.%20Information%20Search.%20Thematic%20Modeling%20(LSA%2C%20LDA%2C%20HDP)/topic_modelling.ipynb) _(Thematic Modeling (LSA, LDA, HDP))_
 * 📙 [Morphological and syntactic analysis](https://github.com/Alex110117/introduction_neural_network/blob/master/NLP/H/HW1_banki_TM-and-classification1.ipynb)
 * 📗 [Word Mover's Distance](https://github.com/Alex110117/introduction_neural_network/blob/master/NLP/L/23.%20Distribution%20semantics%20(word2vec%2C%20GloVe%2C%20AdaGram)%20WMD/4_WMD.ipynb) _(WMD)_
-* 📗 [Tone analysis](https://github.com/Alex110117/introduction_neural_network/blob/master/NLP/L/23.%20Distribution%20semantics%20(word2vec%2C%20GloVe%2C%20AdaGram)%20WMD/rnn_classification.ipynb) _(pytorch, RNN)_
+* 📗 [Tone analysis](https://github.com/Alex110117/introduction_neural_network/blob/master/NLP/L/23.%20Distribution%20semantics%20(word2vec%2C%20GloVe%2C%20AdaGram)%20WMD/rnn_classification_c.ipynb) _(pytorch, RNN)_
 * 📗 [Distribution semantics (word2vec, GloVe, AdaGram)](https://github.com/Alex110117/introduction_neural_network/blob/master/NLP/L/23.%20Distribution%20semantics%20(word2vec%2C%20GloVe%2C%20AdaGram)%20WMD/sem2_embeddings.ipynb) _(Embeddings)_
 * 📙 [Compilation of dictionaries for toning classification](https://nbviewer.jupyter.org/github/Alex110117/introduction_neural_network/blob/master/NLP/H/Distribution%20semantics%20%28word2vec%2C%20GloVe%2C%20AdaGram%29%20WMD_hw.ipynb) _(Lab)_
 <br></br>
