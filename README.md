@@ -3,7 +3,7 @@
 [![1_36MELEhgZsPFuzlZvObnxA copy 2](https://user-images.githubusercontent.com/43387913/69706987-e30ed780-1109-11ea-87e6-afc43490b7ba.gif)](https://github.com/Alex110117/introduction_neural_network)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alex110117/introduction_neural_network/master?filepath=bilder)
-[![Build Status](https://travis-ci.org/Alex110117/introduction_neural_network.svg?branch=master)](https://travis-ci.org/Alex110117/introduction_neural_network)
+[![Build Status](https://travis-ci.org/sibalex/introduction_neural_network.svg?branch=master)](https://travis-ci.org/sibalex/introduction_neural_network)
 
 > This repository contains examples of popular machine learning algorithms implemented in **Python**. In most cases, notebooks from the courses [Netology](https://netology.ru) courses I have been able to participate in.
 
