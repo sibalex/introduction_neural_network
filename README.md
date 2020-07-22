@@ -15,6 +15,7 @@
 * 📗 [Image segmentation, object detection](https://github.com/Alex110117/introduction_neural_network/blob/master/CV/L/13.%20Image%20segmentation%2C%20object%20detection/003-viola-jones.ipynb) _(Viola Jones)_
 * 📙 [Introduction to Neural Networks](https://github.com/Alex110117/introduction_neural_network/blob/master/CV/H/14.%20Introduction%20to%20neural%20networks/004_regression2.ipynb) _(linear operation, TensorFlow)_
 * 📙 [Introduction to Neural Networks](https://github.com/Alex110117/introduction_neural_network/blob/master/CV/H/14.%20Introduction%20to%20neural%20networks/004_classification.ipynb) _(logistic regression, TensorFlow)_
+* 📙 [Neural Network](https://github.com/sibalex/introduction_neural_network/blob/master/bilder/Computer%20vision/other_NN_Digits_Classification.ipynb) _(MNIST, TensorFlow, Keras)_
 * 📗 [Convolutional Neural Network](https://github.com/Alex110117/introduction_neural_network/blob/master/CV/L/15.%20Convolutional%20Neural%20Network%20%20(CNN)/005_cnn_mnist.ipynb) _(MNIST, TensorFlow, Keras)_
 * 📗 [Convolutional Neural Network](https://github.com/Alex110117/introduction_neural_network/blob/master/CV/L/15.%20Convolutional%20Neural%20Network%20%20(CNN)/005_neural_style2.ipynb) _(neural-style, TensorFlow, Keras)_
 * 📙 [Convolutional Neural Network](https://github.com/Alex110117/introduction_neural_network/blob/master/CV/H/16.%20Convolutional%20neural%20networks%20practical%20application/keras_vgg16.ipynb) _(VGG16, TensorFlow, Keras)_
