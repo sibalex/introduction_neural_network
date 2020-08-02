@@ -40,6 +40,7 @@
 * 📗 [Language models](https://github.com/Alex110117/introduction_neural_network/blob/master/NLP/L/25.%20Language%20models.%20Countable%20language%20models%20and%20probabilistic%20language%20models.%20Recurrent%20neural%20networks/language_models.ipynb) _(pytorch, RNN, generate, lstm)_
 * 📗 [Extract information](https://github.com/Alex110117/introduction_neural_network/blob/master/NLP/L/26.%20Extract%20information%20from%20named%20entities%2C%20relationships%2C%20facts%2C%20events.%20Slot%20filling/seq2seq.ipynb) _(seq2seq)_
 * 📗 [Extract information](https://github.com/Alex110117/introduction_neural_network/blob/master/NLP/L/26.%20Extract%20information%20from%20named%20entities%2C%20relationships%2C%20facts%2C%20events.%20Slot%20filling/BERT_First_Time.ipynb) _(BERT)_
+* 📗 [Sentiment Analysis](https://github.com/sibalex/introduction_neural_network/blob/master/Notebook/Sentiment_Analysis_Using_Machine_Learning_and_Python.ipynb) _(liu_hu_lexicon, nltk, polarity)_
 <br></br>
 
 [![69950995-76c71600-1505-11ea-81cd-be72e9023809 2](https://user-images.githubusercontent.com/43387913/69954671-e5f43880-150c-11ea-8b26-2dcd8f26e731.png)](https://nbviewer.jupyter.org)
