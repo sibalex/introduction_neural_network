@@ -5,7 +5,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alex110117/introduction_neural_network/master?filepath=bilder)
 [![Build Status](https://travis-ci.org/sibalex/introduction_neural_network.svg?branch=master)](https://travis-ci.org/sibalex/introduction_neural_network)
 
-> This repository contains examples of popular machine learning algorithms implemented on Python. In most cases, these are laptops from [Netology](https://netology.ru/programs/machine-learn#/) courses, in which I was able to participate.
 
 ### Computer vision:
 * 📗 [Image filtering](https://github.com/Alex110117/introduction_neural_network/blob/master/CV/L/11.%20Basic_theory_CV/filtering.ipynb)
